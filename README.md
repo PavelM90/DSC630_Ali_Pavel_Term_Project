@@ -1,4 +1,4 @@
-![image_CPS](images/example-image-CPS)
+![image_CPS](images/example-image-cps.png)
  
  # Impact of Higher Education and Professional Certificates on Employment
 ## Overview
