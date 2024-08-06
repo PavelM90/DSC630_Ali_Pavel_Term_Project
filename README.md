@@ -15,11 +15,29 @@ Open the Presentation: Use any compatible software (e.g., Microsoft PowerPoint, 
 Review the Slides: The presentation includes key findings, visual aids, and recommendations based on the analysis.
 ### Jupyter Notebooks
 ##### Libraries:
+ Import necessary libraries
+ 
+ pandas 
 
+ matplotlib
 
+ seaborn 
 
-Open the Notebooks: Use Jupyter Notebook or Jupyter Lab to open Supervised_approach_kaggle_salsary_data_modeling.ipynb and Main- UMAP-HDBSCAN-Selected.ipynb.
-Run the Code: Execute the cells in the notebooks to reproduce the analysis, visualizations, and model results.
-Analyze the Findings: Review the outputs and insights derived from the data to understand the impact of higher education and professional certificates on employment and salary outcomes.
+ sklearn
+
+ numpy
+
+ statsmodels.api 
+
+ statsmodels.formula.api 
+
+ scipy
+
+ xgboost
+
+#### Open the Notebooks: Use Jupyter Notebook or Jupyter Lab to open Supervised_approach_kaggle_salsary_data_modeling.ipynb and Main- UMAP-HDBSCAN-Selected.ipynb.
+#### Run the Code: Execute the cells in the notebooks to reproduce the analysis, visualizations, and model results.
+#### Analyze the Findings: Review the outputs and insights derived from the data to understand the impact of higher education and professional certificates on employment and salary outcomes.
+
 ## Summary
 These projects combine data visualization, written content, and visual design to effectively communicate key insights. By utilizing Tableau, Jupyter Notebook, and various presentation tools, these projects provide comprehensive overviews of airplane safety and the impact of education on employment.
