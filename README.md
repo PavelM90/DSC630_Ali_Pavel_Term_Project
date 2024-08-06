@@ -1,3 +1,5 @@
+![image_CPS](images/example-image-CPS)
+ 
  # Impact of Higher Education and Professional Certificates on Employment
 ## Overview
 This project analyzes the relative effectiveness of formal education and professional certificates in enhancing employability and earning potential within the data science sector. It includes a presentation and Jupyter notebooks detailing the analysis.
