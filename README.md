@@ -10,6 +10,7 @@ Supervised_approach_kaggle_salsary_data_modeling.ipynb: Jupyter notebook detaili
 Main- UMAP-HDBSCAN-Selected.ipynb: Jupyter notebook detailing the UMAP and HDBSCAN analysis.
 ## Contributors
 Pavel Makarov
+
 Ali El Masri
 ## How to Use
 ### Presentation
