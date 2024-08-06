@@ -6,8 +6,11 @@ This project analyzes the relative effectiveness of formal education and profess
 
 ## Files
 ElMasri_Makarov_Impact of Higher Education and Professional Certificates on Emplyment.pptx: Presentation highlighting key points from the analysis.
+
 Supervised_approach_kaggle_salsary_data_modeling.ipynb: Jupyter notebook detailing the data modeling and analysis.
+
 Main- UMAP-HDBSCAN-Selected.ipynb: Jupyter notebook detailing the UMAP and HDBSCAN analysis.
+
 ## Contributors
 Pavel Makarov
 
@@ -15,7 +18,9 @@ Ali El Masri
 ## How to Use
 ### Presentation
 Open the Presentation: Use any compatible software (e.g., Microsoft PowerPoint, Google Slides) to open ElMasri_Makarov_Impact of Higher Education and Professional Certificates on Emplyment.pptx.
+
 Review the Slides: The presentation includes key findings, visual aids, and recommendations based on the analysis.
+
 ### Jupyter Notebooks
 ##### Libraries:
  Import necessary libraries
